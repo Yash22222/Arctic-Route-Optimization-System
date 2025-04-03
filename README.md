@@ -96,7 +96,7 @@ An advanced AI-powered system for optimizing maritime routes in polar regions, i
 5. Real-time data integration
 
 ## Technical Documentation
-[Link to detailed technical documentation]
+
 
 ## Research Papers and References
 1. "Machine Learning in Maritime Route Optimization"
