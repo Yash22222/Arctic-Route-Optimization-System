@@ -1,6 +1,4 @@
 
-
-markdown
 # AI-Powered Maritime Route Optimization with Risk Assessment and Iceberg Avoidance
 
 ## Overview
@@ -52,36 +50,36 @@ Before running the system, ensure you have the following tools installed:
 
 To install these dependencies, run the following command in the root directory:
 
-bash
+```bash
 npm install
-
+```
 
 ### Required Python Libraries
 
-1. **scikit-learn**: For implementing machine learning models like Random Forest and K-Means clustering.
-2. **Pandas**: For data manipulation and handling.
-3. **Numpy**: For numerical computations.
-4. **Flask or FastAPI**: For creating the backend API server (if needed).
+1. **scikit-learn**:- For implementing machine learning models like Random Forest and K-Means clustering.
+2. **Pandas**:- For data manipulation and handling.
+3. **Numpy**:- For numerical computations.
+4. **Flask or FastAPI**:- For creating the backend API server (if needed).
 
 To install the required Python libraries, run the following command:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Clone the Repository
 
 To get started with the project, clone the repository to your local machine using Git:
 
-bash
-git clone https://github.com/your-username/maritime-route-optimization.git
-
+```bash
+git clone https://github.com/Yash22222/Arctic-Route-Optimization-System.git
+```
 
 Navigate to the project directory:
 
-bash
+```bash
 cd maritime-route-optimization
-
+```
 
 ## Setup and Configuration
 
@@ -90,17 +88,17 @@ cd maritime-route-optimization
 #### Step 1: Install Node.js Dependencies
 Run the following command to install all necessary dependencies for the frontend:
 
-bash
+```bash
 npm install
-
+```
 
 #### Step 2: Start the Development Server
 
 Start the React development server to run the web application locally:
 
-bash
+```bash
 npm start
-
+```
 
 The app should now be running at `http://localhost:3000`.
 
@@ -110,19 +108,19 @@ Open a browser and go to `http://localhost:3000` to access the interactive map a
 ### 2. Set Up the Backend
 
 #### Step 1: Install Python Dependencies
-Ensure you have Python 3.10 or higher installed. Then, install the necessary Python packages:
+Ensure you have installed Python 3.10 or higher. Then, install the necessary Python packages:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 #### Step 2: Start the Backend Server
 
 If you're using Flask or FastAPI to serve the machine learning models, start the server by running:
 
-bash
+```bash
 python app.py
-
+```
 
 The backend server should now be running, typically at `http://localhost:5000`. You can integrate APIs or handle the machine learning logic through this server.
 
@@ -132,17 +130,17 @@ The backend server should now be running, typically at `http://localhost:5000`. 
    - If you're using MongoDB, ensure MongoDB is installed locally or use a cloud-based MongoDB instance.
    - Create a `.env` file in the project root and configure the database connection URL.
 
-bash
+```bash
 MONGODB_URI=mongodb://localhost:27017/maritimeDB
-
+```
 
 2. **Firebase**:
    - If you're using Firebase, set up Firebase in your project and generate the credentials JSON file.
    - Save the Firebase credentials in the `.env` file.
 
-bash
+```bash
 FIREBASE_CREDENTIALS_PATH=/path/to/credentials.json
-
+```
 
 ## How to Contribute
 
@@ -151,28 +149,28 @@ If you would like to contribute to this project, follow these steps:
 1. Fork the repository by clicking the "Fork" button at the top of the repository page.
 2. Clone your forked repository:
 
-bash
+```bash
 git clone https://github.com/your-username/maritime-route-optimization.git
-
+```
 
 3. Create a new branch for your feature:
 
-bash
+```bash
 git checkout -b feature-xyz
-
+```
 
 4. Make your changes and commit them:
 
-bash
+```bash
 git add .
 git commit -m "Add new feature XYZ"
-
+```
 
 5. Push your changes:
 
-bash
+```bash
 git push origin feature-xyz
-
+```
 
 6. Open a pull request to the `main` branch.
 
@@ -201,13 +199,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or inquiries, feel free to contact the project maintainers:
 
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-
+- **Project Lead**:- [Yash Shirsath](mailto:yashshirsath2410@gmail.com)
+- **GitHub**:- [Yash22222](https://github.com/Yash22222)
+```
 
 ### Key Additions:
-- *How to Clone*: Instructions to clone the repository and start working on it.
-- *Setup Instructions*: A detailed setup for both frontend and backend, including dependencies and how to run the servers.
-- *How to Contribute*: Step-by-step guide on how others can contribute to the project.
-- *Database Configuration*: Instructions for setting up MongoDB or Firebase.
-- *Future Work*: Expanded section on possible future developments.
+- **How to Clone**:- Instructions to clone the repository and start working on it.
+- **Setup Instructions**:- A detailed setup for both frontend and backend, including dependencies and how to run the servers.
+- **How to Contribute**:- Step-by-step guide on how others can contribute to the project.
+- **Database Configuration**:- Instructions for setting up MongoDB or Firebase.
+- **Future Work**:- Expanded section on possible future developments.
