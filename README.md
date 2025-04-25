@@ -21,7 +21,7 @@ An advanced AI powered system for optimizing maritime routes in polar regions, i
 - Port utilization optimization
 
 ### 4. Machine Learning Models
-- Collision risk assessment
+- Collision of risk assessment
 - Environmental impact prediction
 - Fuel efficiency optimization
 
