@@ -1,7 +1,7 @@
 # Arctic & Antarctic Ship Route Optimization System
 
 ## Overview
-An advanced AI-powered system for optimizing maritime routes in polar regions, incorporating real-time weather data, iceberg tracking, and traffic analysis.
+An advanced AI powered system for optimizing maritime routes in polar regions, incorporating real-time weather data, iceberg tracking, and traffic analysis.
 
 ## AI Technologies Used
 
