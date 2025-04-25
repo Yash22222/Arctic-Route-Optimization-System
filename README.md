@@ -10,7 +10,7 @@ An advanced AI powered system for optimizing maritime routes in polar regions, i
 - Multi-layer perceptron for risk assessment
 - Sequence modeling for trajectory prediction
 
-### 2. Random Forest
+### 2. Random Forest Algorithm
 - Weather prediction
 - Ice concentration forecasting
 - Route risk classification
