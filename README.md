@@ -235,7 +235,7 @@ If you would like to contribute to this project, follow these steps:
 2. Clone your forked repository:
 
 ```bash
-git clone https://github.com/your-username/maritime-route-optimization.git
+git clone https://github.com/Yash22222/Arctic-Route-Optimization-System.git
 ```
 
 3. Create a new branch for your feature:
