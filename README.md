@@ -17,7 +17,7 @@ The core technologies include **TensorFlow.js**, **Random Forest algorithms**, *
 
 ---
 
-### Frontend:
+### Frontend
 1. **React 18 with TypeScript**:
     - React is the core library for building the user interface.
     - TypeScript is used for static typing in React.
@@ -39,7 +39,7 @@ The core technologies include **TensorFlow.js**, **Random Forest algorithms**, *
 
 ---
 
-### Backend & AI:
+### Backend & AI
 
 1. **Node.js with Express**:
     - The backend API to handle requests from the frontend.
@@ -55,13 +55,13 @@ The core technologies include **TensorFlow.js**, **Random Forest algorithms**, *
 
 ---
 
-### Machine Learning Models:
+### Machine Learning Models
 1. **K-means clustering**:
     - Used for analyzing traffic patterns.
 
 ---
 
-### `requirements.txt` for Backend (Python-related libraries):
+### `requirements.txt` for Backend (Python-related libraries)
 
 ```txt
 Flask==2.2.2
@@ -74,7 +74,7 @@ numpy==1.23.4
 redis==4.4.0
 ```
 
-### `package.json` for Frontend (JavaScript libraries):
+### `package.json` for Frontend (JavaScript libraries)
 
 Here’s how you would set up your **`package.json`** for the frontend dependencies:
 
@@ -109,7 +109,7 @@ Here’s how you would set up your **`package.json`** for the frontend dependenc
 
 ---
 
-### How to Create the `requirements.txt`:
+### How to use the `requirements.txt`
 For **backend**:
 
 1. Install all necessary Python libraries as per the `requirements.txt` file using `pip`:
@@ -122,7 +122,7 @@ For **backend**:
     pip freeze > requirements.txt
     ```
 
-For **frontend**:
+For **frontend**
 
 1. Initialize your React app with TypeScript by running the following:
     ```bash
